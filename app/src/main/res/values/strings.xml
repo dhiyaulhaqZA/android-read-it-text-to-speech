@@ -4,4 +4,6 @@
     <string name="str_btn_speak">Read it !</string>
     <string name="str_btn_stop">Shut up !</string>
     <string name="clean_the_box">Clean the box !</string>
+    <string name="str_indonesia">Indonesia</string>
+    <string name="str_english">English</string>
 </resources>

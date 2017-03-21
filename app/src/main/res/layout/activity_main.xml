@@ -13,8 +13,13 @@
         android:orientation="vertical"
         android:padding="16dp">
 
+        <Spinner
+            android:id="@+id/sp_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
         <EditText
             android:id="@+id/et_main_box_to_read"
+            android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
