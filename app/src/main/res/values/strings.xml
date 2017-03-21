@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Read it!</string>
+    <string name="str_et_hint_msg">Paste your text here ! I will read it for you :D</string>
+    <string name="str_btn_speak">Read it !</string>
+    <string name="str_btn_stop">Shut up !</string>
+    <string name="clean_the_box">Clean the box !</string>
+</resources>
