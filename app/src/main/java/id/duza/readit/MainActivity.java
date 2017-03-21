@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
-                language = LANG_INDONESIA;
+                language = LANG_ENGLISH;
                 setLanguage();
             }
         });
